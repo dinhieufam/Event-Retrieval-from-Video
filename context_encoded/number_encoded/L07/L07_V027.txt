@@ -1,0 +1,1136 @@
+orange1
+
+
+
+
+
+
+
+
+person2 tie1
+person2 tie1
+person2 tie1
+person2 tie2
+
+tie2
+stopsign1
+person10 motorcycle2 backpack1
+person10 car1 backpack1
+person9 umbrella1
+person10
+person4
+person5
+person6
+person7 diningtable1
+person2 clock2
+person2 clock2
+person3 clock2
+person2 clock2
+umbrella1
+umbrella1
+umbrella1
+umbrella1
+bowl2 pottedplant1
+stopsign1 bowl2
+stopsign1 bowl1 pottedplant1
+stopsign1 bowl1
+person10
+person13
+person10
+person12
+person5
+person5 truck1
+person3
+person5
+
+
+
+
+person8
+person8 airplane1
+person10
+person7
+
+airplane1
+airplane1
+
+airplane2
+airplane2
+airplane2
+airplane2
+airplane1
+stopsign1
+stopsign1
+
+
+stopsign1 tie1
+stopsign1
+
+person1 tie1
+person1 tie1
+person1 tie1
+person1 tie1
+person2 bowl3
+bowl7 pottedplant2
+bowl9 pottedplant2
+bowl8 pottedplant1
+
+
+umbrella1
+umbrella1
+umbrella1
+umbrella1
+umbrella1
+umbrella1
+
+
+
+
+person2 umbrella1
+person2 umbrella1
+person2 umbrella1
+person2 umbrella1
+
+
+
+
+person1
+person1
+person1 pottedplant1
+person1 teddybear1
+clock1
+clock1
+umbrella1 clock1
+umbrella2 clock1
+
+
+
+
+person1
+person1
+person1
+person1
+person9 motorcycle1
+person8
+person7
+person11
+person5
+person7
+person6
+person6
+person3
+person4
+person3
+person3 cellphone1
+person3 pottedplant1 vase1
+person3
+person3 apple1
+person3
+person3 clock1
+person2 umbrella1 clock1
+person2 clock2
+person2 clock2
+person1
+person3
+person2
+person1
+person10
+person9
+person10
+person9
+person9
+person8
+person8
+person8
+person4 umbrella1
+person2 umbrella1
+person2 umbrella2
+person3 umbrella1
+person2 stopsign1
+person3 stopsign1
+person3 stopsign1
+person3 stopsign1
+
+
+umbrella1
+
+person1 umbrella1
+person1
+person1
+person1
+person1
+
+
+airplane1
+person1
+
+
+
+
+
+
+person1
+person1
+person1 baseballbat1
+person1 baseballbat1
+person1
+person1
+
+
+person1
+
+
+firehydrant1
+car1
+
+
+
+
+person4 frisbee1
+person3 dog1
+person4 frisbee1
+person5
+person1 umbrella1
+person2
+person1 umbrella1
+person1
+
+
+
+
+
+
+
+
+person1
+person1
+person1
+person1
+
+bird1
+
+
+
+bear1
+
+
+
+
+bear1
+
+person1
+person1
+person1
+person1
+person1
+person1
+person1
+person1
+
+bear1
+bear1
+
+
+
+
+bear1
+person1
+person1
+person1
+person1
+person1
+person1
+bird1
+bird1
+
+
+
+
+person1
+person1
+person1
+person1
+person1
+
+
+person1
+person1
+person1
+person1
+person1
+person1
+
+person1
+person1
+person1
+person1
+person1
+person1
+person1
+person1
+person1
+person1
+
+person1
+person1
+person1
+
+
+
+
+person1
+person1
+person1
+person1
+person2 tie1
+person2 tie1
+person2 tie1
+person2 tie1
+person13
+person11
+person13
+person14
+person6
+person7
+person7
+person7
+person6
+person7
+person6
+person6
+person9
+person8
+person9
+person13
+person2
+person2
+person2
+person2
+person9
+person9
+person9
+person9
+person9 tie1
+person8
+person6
+person5
+person5
+person5
+person5
+person5
+
+
+
+
+person3 boat1
+person3 truck1
+person2 boat1
+person3 truck1
+person2
+person4
+person4
+person4
+person3
+person3
+person7
+person5
+person8
+person8
+person7 umbrella1
+person7
+person2
+person2
+person2
+person2
+person10 tie1
+person11 tie1
+person13
+person13
+
+
+
+pottedplant1
+boat1
+boat1
+boat1
+boat1
+
+
+
+
+person8 train1
+person8
+person9
+person8
+person1 tie1
+person1 tie1
+person1 tie1
+person1 tie1
+bear1
+person1
+cat1
+bird1
+
+bear1
+
+
+elephant1
+
+
+
+
+
+
+
+person2
+person1
+knife1
+
+bear1
+
+
+bear1
+
+
+
+stopsign1
+
+
+
+
+stopsign1
+stopsign2
+stopsign2
+stopsign1
+person1
+person2
+person1
+person1
+person2
+person3
+person2
+person2
+
+person1 car1
+car1
+car1
+
+
+
+
+person2
+person2 umbrella1
+
+stopsign2
+person1 tie1
+person1 tie1
+person1 tie1
+person2 tie1
+
+
+
+
+
+
+
+
+
+
+person1
+person1
+
+tv1
+
+
+person2 tie1
+person2 tie1
+person2 tie1
+person2 tie2
+truck1
+
+
+
+
+
+
+
+truck1
+truck1
+truck1
+truck1
+person4 car1 truck1
+person4 truck1
+person3 truck1
+person3 truck1
+person1
+person1
+person1
+person1
+
+
+
+
+
+
+
+
+person1 tie1
+person1 tie1
+person1 tie1
+person1 tie1
+person13
+person13
+person13
+person14
+person13
+person13 chair1
+person14 chair1
+person16 chair1
+person14
+person12 dog1
+person9 bird1
+person12 bird1
+person6 kite1
+person6
+person7
+person5
+person9 car1 motorcycle2 chair3
+person11 motorcycle2 chair2
+person15 motorcycle3
+person7 motorcycle2
+person12 chair2 diningtable2
+person12 chair2 diningtable1
+person8 chair2 diningtable2
+person10 chair1 diningtable1
+person15
+person16
+person16
+person16
+person12
+person12
+person14 diningtable1
+person10 diningtable1
+person1
+person1
+person1
+person1 cellphone1
+person5 motorcycle1
+person4
+person5
+person5 pottedplant1
+person4 remote1 vase1
+person4 motorcycle1 vase1
+person4 motorcycle1 vase1
+person4 motorcycle1 vase1
+
+
+person3
+person3
+person2 book2
+person1 bed1 laptop1 book1
+person2 book2
+person1 book3
+person4 bottle4 chair1
+person4 bottle4 chair1
+person4 bottle4 chair1
+person4 bottle4 chair1
+person2
+person2
+person2
+person2
+person6 tv1
+person5 chair1 tv1
+person2 chair1 tv1
+person3 chair1 pottedplant1 tv1 remote1
+
+book2
+book1
+book2
+laptop1 mouse1
+laptop1 mouse1
+laptop1 mouse1
+laptop1 mouse1
+person3
+person3
+person3 handbag1
+person3 handbag1
+person2 book1
+person2 book1
+person3
+person3 book1 clock1
+person2 cup1 chair3 pottedplant1
+person2 cup1 chair3 pottedplant1
+person2 handbag1 cup1 chair3 pottedplant1 laptop1 cellphone1
+person2 cup1 chair3 cellphone1
+person1 chair3 tv1
+person1 chair3 tv1
+person1 chair3 tv1 refrigerator1
+person1 chair3 tv1 refrigerator1
+person2 cup1 chair4 pottedplant1 tv1 cellphone1 book1
+person2 cup1 chair4 pottedplant1 tv1 laptop1 cellphone1 book1
+person2 cup1 chair4 pottedplant1 tv1 laptop1 cellphone1 book1
+person2 cup1 chair4 tv1 cellphone1 book1
+person2 tie1
+person2 tie1
+person2 tie1
+person2 tie1 cellphone1
+person1 motorcycle1 chair1
+person1 motorcycle1 chair1
+person1 motorcycle1 chair1
+person1 motorcycle1 chair1
+person2 chair1 pottedplant1 tv1
+person2 chair1 pottedplant1 tv1 mouse1
+person2 chair1 pottedplant1 tv2 mouse1
+person2 chair1 pottedplant1 tv1 mouse2 keyboard1
+person1 chair1 tv1
+person1 motorcycle1 chair1 tv1
+person1 motorcycle1 chair1 tv1
+person1 motorcycle1 chair1 tv1
+person8 truck1 backpack1
+person7 truck1 backpack1
+person6 car1 backpack1
+person6 car1 backpack1
+person3 handbag1 suitcase1
+person2 handbag1
+person2
+person2
+person1
+person1
+person1
+person1
+person1
+person1
+person1
+person1 cake1
+person2 truck1 bottle1 cellphone1
+person2 truck1 bottle1 cellphone1
+person2 truck1 bottle1 cellphone1
+person2 truck1 bottle1
+
+
+
+
+person4 car3
+person3 car3 truck1 pottedplant1
+person2 car2
+person2 car2
+person2 backpack1 suitcase1
+person3 backpack1
+person5 motorcycle1 backpack1
+person3 motorcycle2
+person3
+person3 motorcycle1 handbag2
+person3 motorcycle1 handbag1
+person3 handbag1
+
+
+person1
+
+person8 truck1
+person7 truck1
+person8 truck1
+person7 truck1
+person4 car1
+person3 suitcase1
+person5 bus1
+person5 truck1
+person1 car1
+person1 truck1
+person1
+person1 truck1
+person2 car1 truck1
+person2 car1
+person2 car1 truck1
+person2 car1 truck1
+person2 tie1
+person2 tie1
+person2 tie1
+person2 tie1
+person1 bottle1
+person1 bench1 bottle1
+person1 bench1 bottle1
+person1 bench2 bottle1
+person1 bottle1 cup1 chair1
+person1 bottle1 cup1 chair1
+person1 bottle1 cup1 chair1
+person1 bottle1 cup1 chair1
+person1 bench1 bottle1
+person1 bench1 bottle1
+person1 bench2 bottle1
+person1 bench1 bottle1
+person4
+person4
+person4 bottle1
+person4 bottle1
+person2 chair1
+person2 chair1
+person2 chair1
+person2 chair1
+person1
+person1
+person1
+person1
+person1 bottle1
+person1 bottle1 wineglass1 chair1
+person1 bottle1 chair1
+person1 bottle1 cup1 chair1
+person1 tie1
+person2 tie1
+person2 tie1
+person2 tie2
+person1 tie1
+person1
+
+person1
+
+
+person2
+person2
+person3
+person2
+person1
+
+person2
+person2
+person1
+person2
+person1
+
+
+stopsign1
+person2 broccoli1
+person1 broccoli1 toothbrush1
+person1 broccoli1
+person1 broccoli1
+
+
+
+stopsign1
+sink1 refrigerator1
+
+refrigerator1
+sink1
+person1 stopsign1
+person1 stopsign1
+person1
+person1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+person1 cake1
+person2
+person5
+person5
+person7
+
+
+umbrella1 bottle2
+stopsign1
+person1 tie1
+person1 tie1
+person1 tie1
+person1 tie1
+person10 truck1 backpack1 clock1
+person10 truck1 backpack2 clock1
+person11 clock1
+person5 clock1
+
+clock1
+person3 clock1
+person2 clock1
+clock1
+clock1
+clock1
+clock1
+person4 car1 trafficlight2
+person2 car1 trafficlight2
+person3 car1 trafficlight2
+person2 car1 trafficlight2
+
+
+
+
+person3
+person4 handbag1
+person4 handbag1
+person4
+person1
+person1
+person1
+person1
+person7 bicycle1 trafficlight1 backpack3 handbag1
+person8 bicycle1 trafficlight1 backpack2 handbag3
+person7 bicycle1 trafficlight1 backpack2 handbag3
+person7 bicycle1 trafficlight1 backpack2 handbag2
+person6 backpack1
+person6 handbag2
+person4
+person4
+person1
+person1
+person1
+person1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+tv1
+tv1
+tv1
+tv1
+airplane1
+airplane1
+airplane1
+airplane1
+
+
+
+
+person2 tie1
+person2 tie1
+person2 tie1
+person2 tie1
+person1 cellphone1
+person1 cellphone1
+person1 cellphone1
+person1 cellphone1
+person1 tv1
+person1 tv1
+person1
+person1
+person2
+person2
+person2
+person2 apple1
+
+scissors1
+
+
+person1 chair1 book1
+person1 chair1 book1
+person1 chair1 book1
+person1 chair1
+
+
+
+
+
+
+
+
+person1
+person1
+person1
+person1
+person1 broccoli1
+person1 broccoli1
+person1 broccoli1
+person1 broccoli1
+
+sink1
+sink1
+sink1
+
+
+
+
+person1
+person1
+person1
+person1
+
+
+
+
+
+
+
+
+remote1
+person1 remote1
+person1 remote1 cellphone1
+person1 remote1 cellphone1
+
+
+person1 remote1
+remote1
+person1
+person1
+person1
+person1
+sink1 refrigerator1
+sink2 refrigerator1
+refrigerator1
+refrigerator1
+
+suitcase1
+
+
+airplane1
+
+
+
+sink1
+sink1
+sink2
+sink2
+person3 car2
+person2 car1 truck1
+person3 car1 truck1
+person3 truck1
+person2
+person2 motorcycle1
+person2 suitcase1
+person2
+person1 tie1 tv1
+person1 tv1
+person1 tv1
+person1 tv1
+person1 cake1 tv1
+
+
+
+person3
+person1
+person1
+
+
+boat1
+cake1
+cake1
+person1
+person3
+person1
+
+person8
+person5
+person5
+person3 car3 bus1
+airplane1
+person1 clock1
+clock1
+person1 clock1
+bottle9
+bottle10
+airplane1 bottle8
+bottle9
+person4
+person5
+person6
+person6
+person5
+person5
+person7
+person4
+
+
+
+
+person2 backpack1
+person5
+person2
+person3
+person3
+person3
+person3 chair1
+person3 chair2
+
+
+
+person1
+person3
+person8
+person8
+person8
+
+
+
+
+airplane1
+airplane1
+airplane1
+
+person9
+person9 boat1
+person10
+person9
+
+
+
+
+person10 train1
+person16
+person9
+person11
+person13
+person11
+person17
+person14
+person1 cellphone4
+person2 cellphone3 teddybear1
+person2 cellphone4 teddybear1
+person2 cellphone5 teddybear1
+person1
+person2
+person2
+person5
+person3 dog1
+bear1
+bear1
+bear1
+person1
+person1
+bottle1
+
+person5
+person4
+person3
+person4
+person5
+person8
+person6
+person7
+person6
+person6
+person8
+person4
+person1 tie1
+person1 tie1
+person1 tie1
+person1 tie1
+person1
+person1 clock1
+person1 chair1
+person1 chair1
+person1 chair1
+person1 chair1
+person1 chair1
+person1 chair1
+person1 chair1
+person1 sportsball1 chair1
+person1 chair1
+person1 sportsball1 chair1
+person1 sportsball1 chair1
+person1 sportsball1 chair1
+person1 chair1 remote1
+person1 remote1
+person1
+person1 cow1
+person1 bear2
+person1
+person1 bird1 tv1 book1
+person1 tv1 book1
+person1
+person1 book1
+bear1
+bear1
+bear1
+bear1
+
+
+
+
+bear1
+bear1
+bear1
+bear2
+bear1
+bear1
+sheep1 cow1
+
+person1 bird1
+person1 bird3
+person1 bird2
+bird3
+person1
+person1
+person1 tie1
+person1 tie1
+person1
+dog1
+bear1
+bear1
+
+dog1
+bear1
+bear1
+bear2
+person1 bear1
+bear2
+bear2
+person1
+person1
+
+
+bear2
+bear2
+bear2
+bird1 bear1
+bear1
+elephant1 bear1
+bear1
+bear2
+person1 airplane1
+person2
+person1 tie1 chair1
+person2 tie1 chair1
+person2 tie1
+
+
+
+person9 cellphone1
+person8 car1 cellphone1 hairdrier1
+person11 car1 cellphone1
+person8 car2 truck1 cellphone1
+car4
+car3
+car3
+car3
+person8 parkingmeter1 umbrella1
+person9
+person9 parkingmeter1
+person9 tie1
+person5 tie1
+person2 tie1
+person2 tie1
+person2 tie1
+person2
+keyboard1
+
+

@@ -1,0 +1,936 @@
+
+
+
+
+
+
+
+
+person0
+person0 person1 tie0
+person0 person1 person2 tie0
+person0 person1 tie0
+person0 person1 tie0 tie1
+
+tie0
+stopsign0
+person0 person1 person2 person3 person4 person5 person6 person7 person8 person9 person10 bottle0 cup0 chair0 chair1 chair2 chair3 chair4 chair5 chair6 chair7 refrigerator0
+person0 person1 person2 person3 person4 person5 person6 person7 person8 person9 person10 bottle0 cup0 chair0 chair1 chair2 chair3 chair4 chair5 refrigerator0
+person0 person1 person2 person3 person4 person5 person6 person7 person8 person9 bottle0 cup0 chair0 chair1 chair2 chair3 diningtable0 refrigerator0 clock0
+person0 person1 person2 person3 person4 person5 person6 person7 person8 person9 bottle0 cup0 chair0 chair1 chair2 chair3 chair4 diningtable0 refrigerator0
+person0 person1 person2 person3 bottle0 bottle1 chair0
+person0 person1 person2 person3 bottle0 bottle1 chair0 chair1
+person0 person1 person2 person3 bottle0 bottle1 chair0
+person0 person1 person2 person3 bottle0 bottle1 chair0
+person0 person1 person2 bottle0
+person0 person1 person2 bottle0
+person0 person1 person2 bottle0
+person0 person1 person2 bottle0
+
+
+
+
+
+person0 person1 person2
+person0 person1 person2 car0
+person0 person1 person2 car0
+cake0 cake1 cake2 cake3 cake4 cake5 cake6 diningtable0
+cake0 cake1 cake2 cake3 cake4 cake5 cake6
+cake0 cake1 cake2 cake3 cake4 cake5 cake6 cake7 cake8
+cake0 cake1 cake2 cake3 cake4 cake5 cake6 cake7
+hotdog0 cake0
+hotdog0 cake0 cake1
+hotdog0 cake0
+hotdog0 cake0
+donut0 donut1
+donut0 donut1
+donut0
+donut0 donut1
+
+
+stopsign0
+
+person0 tie0
+person0 tie0 book0
+person0 tie0 book0
+person0 tie0
+person0 person1 person2 person3 person4 person5 person6 person7 person8 person9 person10 bottle0 chair0 chair1 chair2 chair3 chair4 chair5 chair6 chair7 chair8 tv0
+person0 person1 person2 person3 person4 person5 person6 person7 person8 bottle0 chair0 chair1 chair2 chair3 chair4 chair5 chair6 chair7
+person0 person1 person2 person3 person4 person5 person6 person7 person8 person9 bottle0 cup0 chair0 chair1 chair2 chair3 chair4 chair5 chair6 refrigerator0 clock0
+person0 person1 person2 person3 person4 person5 person6 person7 person8 person9 person10 bottle0 cup0 chair0 chair1 chair2 chair3 chair4 diningtable0 refrigerator0 clock0
+person0 person1 person2 person3 bottle0 bottle1 chair0
+person0 person1 person2 person3 bottle0 bottle1 chair0
+person0 person1 person2 person3 bottle0 bottle1 cup0 chair0 diningtable0
+person0 person1 person2 person3 bottle0 bottle1 chair0 chair1
+person0 chair0
+person0 chair0
+person0 chair0
+person0 chair0
+cellphone0
+cellphone0
+cellphone0
+cellphone0
+person0 person1 bottle0 chair0 chair1 chair2 chair3 chair4 chair5 tv0 keyboard0 sink0
+person0 person1 bottle0 chair0 chair1 chair2 chair3 chair4 chair5 tv0 keyboard0
+person0 person1 person2 bottle0 chair0 chair1 chair2 chair3 chair4 chair5 tv0 keyboard0 sink0
+person0 person1 person2 person3 bottle0 chair0 chair1 chair2 chair3 chair4 chair5 tv0 sink0
+person0
+person0
+
+person0
+person0
+person0
+person0
+person0
+person0 person1 person2 person3 chair0 chair1 tv0 mouse0 keyboard0
+person0 person1 person2 person3 chair0 chair1 chair2 chair3 tv0 mouse0 keyboard0
+person0 person1 person2 person3 chair0 chair1 chair2 tv0 keyboard0
+person0 person1 person2 chair0 chair1 chair2 tv0
+person0 tie0 diningtable0
+person0 diningtable0 tv0
+person0
+person0 tv0
+person0 person1 chair0 laptop0
+person0 person1 chair0
+person0 person1 chair0
+person0 person1 chair0
+person0 person1 person2 bottle0 chair0
+person0 person1 bottle0 chair0
+person0 person1 person2 bottle0 chair0
+person0 person1 person2 bottle0 chair0
+clock0
+clock0
+clock0
+clock0
+person0 person1 bottle0 bottle1 bottle2 cup0 chair0 bed0 laptop0
+person0 person1 person2 bottle0 chair0 bed0 laptop0
+person0 person1 bottle0 bottle1 chair0 bed0 laptop0
+person0 person1 bottle0 bottle1 cup0 chair0 bed0 laptop0
+person0
+person0
+person0
+person0
+tv0
+tv0
+tv0
+tv0
+person0 person1 tie0 book0
+person0 person1 tie0 cellphone0 book0
+person0 person1 tie0
+person0 person1 tie0
+person0 person1 tie0 knife0 book0
+car0 car1 train0 truck0 truck1
+train0
+car0 train0
+
+
+
+
+person0 person1 person2 person3 person4 person5 person6 person7 person8 person9 person10 person11 person12
+person0 person1 person2 person3 person4 person5 person6 person7 person8 person9 person10 person11 person12 person13
+person0 person1 person2 person3 person4 person5 person6 person7 person8 person9 person10 person11 person12 handbag0 handbag1
+person0 person1 person2 person3 person4 person5 person6 person7 person8 person9 person10 person11 handbag0 tv0
+person0 person1 person2 person3 person4 person5 person6 person7 person8 person9 person10 person11 person12 person13 person14
+person0 person1 person2 person3 person4 person5 person6 person7 person8 person9 person10 person11 person12
+person0 person1 person2 person3 person4 person5 person6 person7 person8 person9 person10 person11 person12 person13 person14 person15
+person0 person1 person2 person3 person4 person5 person6 person7 person8 person9 person10 person11 person12 person13 stopsign0
+person0 person1 person2 person3 person4 person5 person6 person7 person8 person9 person10 person11 person12 tv0
+person0 person1 person2 person3 person4 person5 person6 person7 person8 person9 person10
+person0 person1 person2 person3 person4 person5 person6 person7 person8 person9 kite0
+person0 person1 person2 person3 person4 person5 person6 person7 person8
+car0 train0 truck0
+train0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+car0 truck0
+car0 car1 car2 bus0 truck0
+car0 car1 bus0 truck0
+car0 car1 car2 bus0 truck0
+
+
+bus0
+car0 car1 bus0
+
+car0 truck0
+car0
+car0 truck0
+
+truck0
+truck0
+truck0
+
+
+
+
+person0
+person0
+person0
+person0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+person0
+person0
+person0
+person0 cellphone0
+person0 person1 person2 car0 motorcycle0 motorcycle1 motorcycle2 motorcycle3
+person0 person1 person2 person3 person4 person5 person6 car0 motorcycle0 motorcycle1 motorcycle2 motorcycle3 motorcycle4 motorcycle5 motorcycle6
+person0 person1 person2 person3 person4 person5 motorcycle0 motorcycle1 motorcycle2 motorcycle3 motorcycle4 motorcycle5 motorcycle6 motorcycle7
+person0 person1 person2 person3 person4 person5 car0 motorcycle0 motorcycle1 motorcycle2 motorcycle3 motorcycle4
+person0 person1 person2 motorcycle0 motorcycle1 motorcycle2
+person0 person1 person2 car0 motorcycle0 motorcycle1 motorcycle2
+person0 person1 person2 person3 person4 car0 motorcycle0 motorcycle1 motorcycle2 motorcycle3 motorcycle4
+person0 person1 person2 car0 motorcycle0 motorcycle1 motorcycle2 truck0
+pottedplant0
+
+
+person0
+person0 person1
+person0 person1 car0
+person0
+person0 person1
+person0 tie0
+person0
+person0
+person0
+person0
+person0 refrigerator0
+person0 refrigerator0
+person0
+person0 person1 person2 person3 person4 person5 motorcycle0 motorcycle1 motorcycle2
+person0 person1 person2 person3 person4 person5 motorcycle0 motorcycle1 motorcycle2 motorcycle3
+person0 person1 person2 person3 motorcycle0 motorcycle1 motorcycle2 motorcycle3
+person0 person1 person2 person3 person4 car0 motorcycle0 motorcycle1 motorcycle2 motorcycle3 motorcycle4 motorcycle5
+
+
+
+
+person0 person1 person2
+person0 person1
+person0 person1
+person0 person1
+person0
+person0 refrigerator0
+person0
+person0 refrigerator0
+person0 person1 car0 motorcycle0 motorcycle1 motorcycle2
+person0 person1 person2 car0 car1 motorcycle0 bus0
+person0 person1 person2 car0 car1 motorcycle0 motorcycle1 motorcycle2 motorcycle3
+person0 person1 person2 car0 car1 motorcycle0 motorcycle1 motorcycle2 motorcycle3
+person0 person1 person2 person3 person4 motorcycle0 motorcycle1 motorcycle2 motorcycle3 truck0 truck1
+person0 person1 person2 person3 person4 motorcycle0 motorcycle1 motorcycle2 bus0 truck0
+person0 person1 person2 person3 motorcycle0 motorcycle1 bus0 truck0
+person0 person1 person2 person3 person4 car0 motorcycle0 motorcycle1 motorcycle2 truck0
+person0 person1 motorcycle0 motorcycle1
+person0 motorcycle0
+person0 motorcycle0
+person0 person1 bicycle0 motorcycle0
+person0 motorcycle0
+person0 motorcycle0
+person0 motorcycle0 truck0
+person0 person1 motorcycle0 truck0
+car0
+person0 car0 car1 motorcycle0
+car0
+car0 car1
+person0 person1 tie0 chair0
+person0 tie0
+person0 person1 tie0
+person0 person1 tie0
+person0 person1 tie0
+person0 boat0
+person0 boat0
+person0 boat0
+person0 boat0
+person0 boat0
+person0 boat0
+person0 boat0
+boat0
+person0 boat0
+boat0
+boat0 boat1
+person0
+person0
+person0
+person0
+
+
+
+
+boat0
+boat0
+boat0 boat1
+boat0 boat1
+
+
+
+
+person0 boat0
+person0 boat0
+person0 boat0
+person0 boat0
+person0 boat0 boat1
+person0 boat0
+person0 boat0
+person0 boat0
+
+
+
+
+person0
+person0
+person0
+person0
+person0 boat0
+person0 boat0
+person0 boat0
+person0 boat0
+
+
+
+
+
+
+firehydrant0
+
+person0 truck0
+person0 truck0
+person0 truck0
+person0 truck0
+person0
+person0
+person0
+person0
+
+
+
+
+
+
+
+
+person0
+person0
+person0
+person0
+person0
+person0
+
+person0
+boat0
+boat0
+
+
+motorcycle0
+
+
+
+
+
+
+
+
+
+
+
+person0 person1 tie0 surfboard0
+person0 person1 tie0
+person0 person1 tie0
+person0 person1 tie0
+person0 person1 person2 person3 person4 person5 person6 person7 person8 person9 person10 bottle0 bottle1 laptop0
+person0 person1 person2 person3 person4 person5 person6 person7 person8 person9 person10 bottle0 laptop0
+person0 person1 person2 person3 person4 person5 person6 person7 person8 person9 person10 person11 person12 laptop0
+person0 person1 person2 person3 person4 person5 person6 person7 person8 person9 person10 person11 person12 bottle0 bottle1 laptop0
+person0
+person0
+person0
+person0
+person0 person1 person2 person3 person4 person5 bottle0 bottle1 bottle2 cup0 cup1 chair0 chair1 chair2 chair3 laptop0
+person0 person1 person2 person3 person4 person5 person6 bottle0 bottle1 bottle2 cup0 cup1 chair0 chair1 chair2 chair3 laptop0
+person0 person1 person2 person3 person4 person5 person6 bottle0 bottle1 bottle2 cup0 cup1 chair0 chair1 chair2 chair3 laptop0
+person0 person1 person2 person3 person4 person5 person6 bottle0 bottle1 bottle2 cup0 chair0 chair1 chair2 chair3 laptop0
+person0 person1 person2 person3 person4 person5 person6 bicycle0 car0 car1 car2 car3 car4 truck0
+person0 person1 person2 person3 person4 person5 person6 car0 car1 car2 car3 car4 motorcycle0 truck0 truck1
+person0 person1 person2 person3 car0 car1 car2 car3 car4 truck0
+person0 person1 person2 person3 person4 person5 person6 car0 car1 car2 car3 car4 motorcycle0
+person0 person1 person2 person3 person4 person5 person6 person7 person8 chair0 tv0
+person0 person1 person2 person3 person4 person5 person6 person7 stopsign0 chair0 chair1 pottedplant0 tv0
+person0 person1 person2 person3 person4 person5 person6 person7 chair0 pottedplant0 tv0
+person0 person1 person2 person3 person4 person5 person6 person7 person8 person9 handbag0 handbag1 pottedplant0 tv0
+person0 person1 person2 person3 person4 person5 person6
+person0 person1 person2 person3
+person0 person1 person2 person3 person4 person5 person6
+person0 person1 person2 person3 person4 person5
+person0 person1 person2
+person0
+person0 person1 person2 stopsign0
+person0 person1
+person0 bottle0 chair0
+person0 bottle0 chair0
+person0 bottle0 chair0
+person0 bottle0 chair0
+person0 person1 person2 person3 person4 person5 person6 person7 person8 bottle0 bottle1 bottle2 bottle3 cup0 chair0 chair1
+person0 person1 person2 person3 person4 person5 person6 bottle0 bottle1 bottle2 cup0 cup1 chair0
+person0 person1 person2 person3 person4 person5 person6 person7 bottle0 bottle1 bottle2 cup0 cup1 chair0 chair1
+person0 person1 person2 person3 person4 person5 person6 person7 bottle0 bottle1 bottle2 cup0 cup1 chair0 chair1
+person0 person1
+person0 person1
+person0 person1
+person0 person1
+
+
+
+person0 pottedplant0
+person0 person1 person2 person3
+person0 person1 person2 truck0
+person0 person1 person2
+person0 person1 person2
+person0 person1 person2
+person0
+person0
+person0 person1 person2
+person0 person1 person2 person3 person4 person5 person6 person7 person8 bottle0 bottle1 cup0 cup1 cup2 chair0 chair1 chair2 laptop0 laptop1
+person0 person1 person2 person3 person4 person5 person6 person7 person8 person9 person10 bottle0 bottle1 cup0 cup1 cup2 cup3 chair0 chair1 chair2 chair3 laptop0
+person0 person1 person2 person3 person4 person5 person6 person7 person8 bottle0 bottle1 cup0 cup1 chair0 chair1 chair2 chair3 laptop0 laptop1
+person0 person1 person2 person3 person4 person5 person6 person7 person8 bottle0 bottle1 cup0 cup1 cup2 chair0 chair1 chair2 chair3 laptop0 laptop1
+person0 person1 person2 person3 bottle0 bottle1 bottle2 chair0 book0
+person0 person1 person2 bottle0 bottle1 bottle2 chair0
+person0 person1 person2 bottle0 bottle1 bottle2
+person0 person1 person2 person3 bottle0 bottle1 bottle2
+person0 person1 person2 person3 person4 person5 person6 person7 person8 person9 bottle0 bottle1 bottle2 cup0 cup1 cup2 chair0
+person0 person1 person2 person3 person4 person5 person6 person7 person8 person9 bottle0 bottle1 bottle2 cup0 cup1 cup2 chair0 cellphone0
+person0 person1 person2 person3 person4 person5 person6 person7 person8 person9 bottle0 bottle1 bottle2 cup0 cup1 cup2 chair0 cellphone0
+person0 person1 person2 person3 person4 person5 person6 person7 bottle0 bottle1 bottle2 cup0 cup1 chair0 cellphone0
+person0 person1 person2 person3 person4 person5 bottle0 bottle1 cup0 chair0 chair1 chair2 chair3
+person0 person1 person2 person3 person4 person5 bottle0 bottle1 cup0 cup1 chair0 chair1 chair2
+
+
+
+airplane0
+
+person0 person1 person2
+person0
+person0 person1 person2 person3 person4 person5
+person0 person1 person2 person3
+person0 person1 person2 person3 person4 person5
+
+
+
+
+
+
+
+
+person0 person1 bus0 stopsign0
+person0 person1 bus0
+person0 airplane0
+
+person0 person1 tie0
+person0 person1 tie0 book0
+person0 person1 tie0 cellphone0
+person0 person1 tie0
+person0 person1 tie0
+banana0 banana1
+
+
+donut0 donut1 donut2 donut3 donut4 donut5
+donut0 donut1 cake0
+donut0 donut1
+donut0 donut1 donut2
+
+
+
+
+cake0 cake1 cake2 cake3 cake4 cake5 cake6
+cake0 cake1 cake2 cake3 cake4 cake5 cake6 cake7
+cake0 cake1 cake2 cake3 cake4 cake5 cake6 cake7
+cake0 cake1 cake2 cake3 cake4 cake5 cake6 cake7
+cake0 cake1
+cake0
+
+cake0
+bowl0 hotdog0 cake0
+bowl0 hotdog0 cake0 cake1
+hotdog0 cake0 cake1
+hotdog0 cake0 cake1
+person0
+person0
+person0
+person0
+person0
+
+person0 person1 person2
+person0 person1 person2
+person0 person1 person2
+person0 person1 person2 person3 person4 person5
+person0 person1 person2 person3 person4
+person0 person1 person2 person3
+person0 tie0 book0
+person0 tie0
+person0 tie0
+person0 tie0
+person0 tie0
+
+
+
+
+
+
+
+person0 person1 bus0
+person0 person1 bus0
+person0 person1
+
+
+
+
+
+person0 vase0
+person0
+person0
+person0
+person0
+person0
+person0
+person0
+
+
+car0
+
+
+
+
+
+
+umbrella0
+umbrella0
+umbrella0
+person0
+person0
+person0
+person0
+person0
+person0
+person0
+person0
+
+
+
+
+train0 truck0
+truck0
+bus0 truck0
+truck0
+person0 person1 tie0
+person0 person1 tie0 cellphone0
+person0 person1 tie0
+person0 person1 tie0
+
+
+
+
+person0 person1
+person0 person1
+person0 person1
+person0 person1
+
+person0
+
+
+
+
+
+
+person0 person1 chair0 chair1 chair2 laptop0
+person0 chair0 chair1 chair2 laptop0
+person0 chair0 chair1 chair2 laptop0
+person0 chair0 chair1 chair2 laptop0 book0
+person0 toilet0
+person0
+person0
+person0
+person0 person1 motorcycle0
+person0 person1 motorcycle0 handbag0
+person0 motorcycle0
+person0 person1 person2
+person0 bottle0
+person0
+person0
+person0
+person0 laptop0 mouse0 book0
+person0 laptop0 mouse0 book0
+person0 laptop0 mouse0 book0
+person0 laptop0 book0
+person0 person1
+person0 person1
+person0 person1 person2
+person0 person1
+person0 person1 person2 person3 person4 person5 person6 person7 chair0 chair1 chair2 chair3 chair4 chair5 chair6 chair7 diningtable0 diningtable1
+person0 person1 person2 person3 person4 person5 chair0 chair1 chair2 chair3 chair4 chair5 chair6 diningtable0 cellphone0
+person0 person1 person2 person3 person4 person5 person6 person7 person8 person9 person10 person11 chair0 chair1 chair2 chair3 chair4
+person0 person1 person2 person3 person4 person5 person6 person7 person8 chair0 chair1 chair2
+person0 person1 person2 person3 person4 person5 person6 person7 person8 person9 person10 person11 person12 chair0 chair1 chair2
+person0 person1 person2 person3 person4 person5 person6 person7 person8 person9 person10 person11 person12 chair0 chair1 chair2 chair3
+person0 person1 person2 person3 person4 person5 person6 person7 person8 person9 person10 person11 chair0 chair1 chair2
+person0 person1 person2 person3 person4 person5 person6 person7 person8 person9 chair0 chair1 chair2 chair3 chair4
+person0 person1 person2 person3 person4 person5 person6 person7 person8 person9 chair0 chair1 chair2 chair3 chair4 chair5 chair6 chair7 chair8
+person0 person1 person2 person3 person4 person5 person6 person7 person8 person9 person10 person11 chair0 chair1 chair2 chair3 chair4 chair5 chair6 chair7 chair8
+person0 person1 person2 person3 person4 person5 person6 person7 person8 person9 person10 person11 person12 chair0 chair1 chair2 chair3 chair4 chair5 chair6 chair7
+person0 person1 person2 person3 person4 person5 person6 person7 person8 person9 person10 chair0 chair1 chair2 chair3 chair4 chair5 chair6 chair7
+person0 person1 person2 person3 person4 person5 chair0
+person0 person1 person2 person3 person4 person5 person6 chair0
+person0 person1 person2 person3 person4 person5 person6 chair0
+person0 person1 person2 person3 person4 person5 person6 person7 chair0
+person0 person1 bottle0 chair0 laptop0
+person0 person1 bottle0 chair0 laptop0
+person0 person1 bottle0 chair0 laptop0
+person0 person1 bottle0 chair0 laptop0
+person0 chair0
+person0 chair0
+person0 chair0 toothbrush0
+person0 chair0 toothbrush0
+person0
+person0
+person0
+person0
+person0 person1 tie0 surfboard0
+person0 person1 tie0
+person0 person1 tie0
+person0 person1 tie0
+person0 person1 tie0
+keyboard0
+
+
+
+
+
+
+
+teddybear0
+
+
+
+
+person0
+
+
+
+
+
+
+
+
+
+
+
+
+
+person0
+person0
+person0
+person0
+bottle0 bottle1
+person0 person1 person2 person3 person4 person5
+person0 person1 person2 person3 person4 person5 person6
+
+person0
+person0
+person0
+person0
+
+
+
+
+
+
+
+
+
+
+person0 person1 person2 person3 bottle0 bottle1
+tie0
+person0 person1 person2 person3 person4 person5 person6 person7 person8 bottle0
+person0 person1 person2 person3 person4 person5 person6 person7 bed0
+person0 person1 person2 person3 person4 person5 person6 person7 person8 bed0
+person0 person1 person2 person3 person4 person5 person6 person7 person8 person9 person10 stopsign0 bed0
+person0
+person0 person1 person2
+person0 person1 laptop0
+person0 person1
+person0 person1 person2 person3 person4 person5 person6 person7 person8
+person0 person1 person2 person3 person4 person5 person6 person7
+person0 person1 person2 person3 person4 person5 person6
+person0 person1 person2 person3 person4 person5 bottle0 bottle1
+refrigerator0
+stopsign0
+stopsign0
+couch0
+
+
+
+
+person0
+person0
+umbrella0
+stopsign0
+person0 tie0
+person0 tie0 cellphone0
+person0 tie0
+person0 tie0
+person0 person1 person2 person3 person4 person5 person6 person7
+person0 person1 person2 person3 person4 person5 person6 person7 bed0 tv0
+person0 person1 person2 person3 person4 person5 person6 person7 bed0 clock0
+person0 person1 person2 person3 person4 person5 person6 person7 person8 bed0 clock0
+person0
+person0 person1 handbag0
+person0 person1
+person0 person1 person2 cellphone0
+person0 person1 person2 person3 person4
+person0 person1 person2 person3 person4 person5 person6
+person0 person1 person2 person3 person4
+person0 person1 person2 person3 person4 person5
+person0
+person0 person1
+person0 person1
+person0 person1
+
+
+chair0
+chair0
+person0 person1 person2 person3 person4 bottle0
+person0 person1 person2 person3 person4 person5 bottle0
+person0 person1 person2 person3 person4 person5 bottle0
+person0 person1 person2 person3 person4 person5 person6 person7 bottle0
+person0 person1
+person0 person1
+person0 person1
+person0 person1 person2 person3
+person0 person1 wineglass0
+person0 wineglass0
+person0 wineglass0
+person0 person1 wineglass0
+
+
+trafficlight0
+person0 person1 person2 trafficlight0
+person0 truck0 truck1
+person0 truck0
+person0 truck0
+truck0
+person0 person1
+person0 person1
+person0 person1 person2
+person0 person1
+
+
+
+
+person0 person1 person2 person3 person4 bicycle0 bicycle1 car0 car1 bus0 truck0
+person0 person1 person2 car0 truck0
+person0 person1 person2 person3 person4 person5 bicycle0
+person0 person1 person2 person3 person4 bicycle0 bicycle1 truck0
+person0 bicycle0
+person0 person1 tie0
+person0 tv0
+person0
+person0 tv0
+
+
+
+
+
+
+
+
+
+
+
+
+
+truck0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+boat0
+boat0
+boat0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+person0
+person0 train0
+person0 person1 person2 cellphone0
+person0 person1 horse0
+person0
+person0 person1 horse0 cellphone0
+person0
+person0 person1
+person0 person1 person2
+person0 person1 person2
+person0 person1 person2 refrigerator0
+person0 person1 person2
+person0 person1 person2 tv0
+person0
+person0
+couch0
+person0 horse0
+person0 horse0
+person0 horse0
+person0 horse0
+person0 horse0
+person0 horse0
+person0 horse0
+person0 horse0
+
+
+
+
+person0 banana0
+person0
+person0
+person0
+person0 person1
+person0 person1
+person0 person1
+person0 person1
+person0
+person0
+
+
+person0
+person0
+person0
+person0
+
+
+
+
+person0 person1 person2 person3 person4
+person0 person1 person2 person3 person4
+person0 person1 person2 person3 person4
+person0 person1 person2
+pottedplant0
+trafficlight0 pottedplant0
+trafficlight0 pottedplant0 pottedplant1
+pottedplant0 pottedplant1
+person0
+person0 person1 tie0
+person0 person1 tie0
+person0 person1 person2 tie0
+person0 tie0
+person0 person1 person2 person3 chair0
+person0 person1 person2 person3 person4 chair0
+person0 person1 person2 person3 person4 chair0
+person0
+person0
+person0
+person0
+person0 person1 person2 person3 chair0 tv0
+person0 person1 person2 person3 chair0 diningtable0
+person0 person1 person2 person3 chair0
+person0 person1 person2 person3 chair0
+person0
+person0
+person0
+person0
+person0 person1 tie0
+person0 person1 tie0
+person0 person1 tie0
+person0
+
+
+
+

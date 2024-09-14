@@ -1,0 +1,1120 @@
+
+
+
+
+
+
+
+
+person0 person1
+person0 person1
+person0 person1
+person0 person1
+person0 person1 tie0
+
+tie0
+stopsign0
+person0 boat0 boat1
+boat0 boat1 boat2
+airplane0 boat0 boat1
+airplane0 boat0 boat1
+car0 car1 airplane0 boat0
+airplane0 bus0 boat0
+person0 person1 car0 airplane0 bus0 bus1 bus2 boat0 boat1
+person0 person1 person2 airplane0 bus0 bus1 boat0 boat1 boat2
+person0 person1 person2 person3 person4 person5 person6 person7 person8 person9 backpack0 umbrella0
+person0 person1 person2 person3 person4 person5 person6 person7 person8 person9 person10 person11 backpack0
+person0 person1 person2 person3 person4 person5 person6 person7 person8 person9 person10 backpack0 umbrella0
+person0 person1 person2 person3 person4 person5 person6 person7 person8 person9 person10 person11 backpack0 umbrella0
+person0 person1 person2 bottle0 chair0 pottedplant0 sink0 refrigerator0 refrigerator1
+person0 person1 person2 bottle0 bottle1 bed0 sink0 refrigerator0 refrigerator1
+person0 person1 person2 bottle0 sink0 refrigerator0 refrigerator1
+person0 person1 person2 person3 chair0 refrigerator0 refrigerator1
+
+stopsign0
+stopsign0
+stopsign0
+person0 person1 person2 bed0 bed1 bed2
+person0 person1 person2 bed0 bed1
+person0 person1 person2 bed0 bed1
+person0 person1 person2 bed0 bed1 bed2
+
+stopsign0
+
+
+
+
+
+
+person0 person1 person2 person3 stopsign0 bear0
+person0 person1 bear0
+person0 person1 person2 stopsign0
+person0 person1 person2 stopsign0
+
+stopsign0
+stopsign0
+
+person0 book0
+person0 cellphone0
+person0 cellphone0
+person0 cellphone0
+car0 car1 car2 bus0 clock0
+car0 car1 bus0 clock0
+car0 car1 car2 bus0 clock0
+car0 car1 car2 bus0 clock0
+person0 car0 car1
+car0 car1
+car0
+person0 car0 car1 bus0
+person0 person1 person2 person3 car0 car1 car2 car3 car4 car5 car6 motorcycle0 motorcycle1 motorcycle2 motorcycle3 motorcycle4 truck0 trafficlight0 clock0
+person0 person1 person2 person3 car0 car1 car2 car3 car4 car5 car6 car7 car8 car9 motorcycle0 motorcycle1 motorcycle2 motorcycle3 truck0 trafficlight0 clock0
+person0 person1 person2 car0 car1 car2 car3 car4 car5 car6 motorcycle0 motorcycle1 motorcycle2 motorcycle3 trafficlight0 clock0
+person0 person1 person2 person3 person4 person5 car0 car1 car2 car3 car4 car5 motorcycle0 motorcycle1 motorcycle2 motorcycle3 motorcycle4 motorcycle5 motorcycle6 truck0 trafficlight0
+person0 person1 person2 person3 person4 person5 motorcycle0 motorcycle1 motorcycle2 motorcycle3 clock0 clock1
+person0 person1 person2 person3 person4 person5 person6 person7 person8 motorcycle0 motorcycle1 motorcycle2 clock0 clock1
+person0 person1 person2 person3 person4 person5 person6 person7 bicycle0 motorcycle0 motorcycle1 motorcycle2 clock0 clock1
+person0 person1 person2 person3 person4 person5 person6 person7 person8 person9 person10 motorcycle0 motorcycle1 motorcycle2 clock0 clock1
+clock0 clock1
+clock0 clock1
+clock0 clock1
+clock0 clock1
+clock0
+clock0
+clock0
+clock0
+person0 person1 person2 person3 person4 person5 person6 person7 person8 person9 person10 clock0 clock1
+person0 person1 person2 person3 person4 person5 person6 clock0 clock1
+person0 person1 person2 person3 person4 person5 person6 person7 person8 person9 motorcycle0 motorcycle1 clock0
+person0 person1 person2 person3 person4 person5 person6 person7 motorcycle0 motorcycle1 clock0
+
+
+
+
+
+
+
+
+car0 car1 car2 car3 car4 car5
+car0 car1 car2 car3 car4 car5 car6 car7
+car0 car1 car2 car3 car4 car5
+car0 car1 car2 car3
+clock0
+clock0
+clock0
+
+
+clock0
+
+book0
+
+
+
+
+person0 person1
+person0 person1
+person0 person1 tie0 book0
+person0 person1
+boat0
+boat0
+boat0
+boat0
+boat0 boat1
+boat0 boat1
+boat0 boat1
+boat0 boat1
+car0 bus0 bus1
+person0 car0 car1 bus0 boat0 boat1
+car0 bus0 boat0 boat1 boat2
+bus0 truck0 boat0 boat1 boat2 boat3
+person0 person1 person2 person3 person4 person5 person6 person7 person8 person9 person10 person11 backpack0 umbrella0 umbrella1 handbag0 handbag1 handbag2 handbag3
+person0 person1 person2 person3 person4 person5 person6 person7 person8 person9 umbrella0 umbrella1 handbag0 handbag1
+person0 person1 person2 person3 person4 person5 person6 person7 person8 person9 person10 person11 umbrella0 umbrella1 handbag0
+person0 person1 person2 person3 person4 person5 person6 person7 person8 person9 backpack0 umbrella0 umbrella1 handbag0 handbag1 suitcase0 suitcase1
+bus0 bus1 truck0 truck1 firehydrant0
+person0 person1 person2 person3 person4 truck0 truck1
+person0 person1 person2 person3
+person0 person1 person2 person3 person4 person5 truck0
+person0 boat0
+person0 boat0 boat1
+person0 boat0 boat1
+person0 boat0
+
+
+
+
+chair0 chair1 chair2 toilet0
+chair0 chair1 toilet0 toilet1
+chair0 chair1 chair2 chair3
+chair0 chair1 chair2
+person0 person1 person2 person3 chair0 chair1 chair2 chair3 chair4 chair5 chair6 chair7
+person0 person1 person2 person3 chair0 chair1 chair2 chair3 chair4 chair5 chair6 chair7
+person0 person1 person2 chair0 chair1 chair2 chair3 chair4 chair5 chair6 chair7 chair8
+person0 person1 person2 person3 chair0 chair1 chair2 chair3 chair4 chair5 chair6 chair7 chair8
+chair0 chair1 chair2 chair3 chair4 chair5 chair6 chair7
+chair0 chair1 chair2 chair3 chair4 chair5 chair6
+chair0 chair1 chair2 chair3 chair4 chair5 chair6
+chair0 chair1 chair2 chair3 chair4 chair5 chair6
+
+
+bench0
+
+person0 person1 person2 car0 bus0 boat0
+person0 person1 person2 person3 car0 bus0
+person0 person1 person2 person3 person4 person5 person6 car0 bus0 firehydrant0
+person0 person1 person2 person3 person4 bus0 firehydrant0
+person0 person1 person2 person3 person4 person5 person6 person7 person8 person9 person10 backpack0 umbrella0 umbrella1 handbag0 handbag1
+person0 person1 person2 person3 person4 person5 person6 person7 person8 person9 person10 backpack0 umbrella0 umbrella1 handbag0 handbag1 suitcase0
+person0 person1 person2 person3 person4 person5 person6 person7 person8 person9 person10 person11 backpack0 umbrella0 umbrella1 handbag0 handbag1 handbag2
+person0 person1 person2 person3 person4 person5 person6 person7 person8 backpack0 backpack1 umbrella0 umbrella1
+person0 person1 person2 person3 person4 person5 person6 person7 person8 person9 person10 person11 backpack0 suitcase0
+person0 person1 person2 person3 person4 person5 person6 person7 person8 person9 backpack0 umbrella0
+person0 person1 person2 person3 person4 person5 person6 person7 person8 person9 person10 backpack0 umbrella0
+person0 person1 person2 person3 person4 person5 person6 person7 person8 backpack0 umbrella0
+person0 person1 person2 person3 person4 backpack0 umbrella0 umbrella1 umbrella2 umbrella3 umbrella4
+person0 person1 person2 person3 person4 person5 person6 backpack0 umbrella0 umbrella1 umbrella2 umbrella3
+person0 person1 person2 person3 person4 person5 person6 person7 person8 person9 backpack0 umbrella0 umbrella1 umbrella2 suitcase0
+person0 person1 person2 person3 person4 person5 person6 person7 person8 person9 person10 bus0 bus1 backpack0 umbrella0 umbrella1 umbrella2
+person0 person1 person2 bus0
+person0 person1 bus0
+bus0 boat0
+truck0 boat0
+person0 person1 person2 person3 person4 person5 person6 person7 person8 person9 person10 person11 person12 person13 truck0 suitcase0 suitcase1
+person0 person1 person2 person3 person4 person5 person6 person7 person8 person9 person10 truck0 handbag0 suitcase0
+person0 person1 person2 person3 person4 person5 person6 person7 person8 person9 person10 person11 person12 person13 truck0 truck1
+person0 person1 person2 person3 person4 person5 person6 bus0 truck0
+person0 cellphone0
+person0 bus0
+person0 cellphone0
+person0
+person0 person1 person2 person3 person4 person5 person6 person7 person8 person9 umbrella0 vase0
+person0 person1 person2 person3 person4 person5 person6 person7 person8 person9 pottedplant0
+person0 person1 person2 person3 person4 person5 person6 person7 person8 person9 pottedplant0
+person0 person1 person2 person3 person4 person5 person6 person7 person8 person9 person10
+person0 person1
+person0
+person0 person1
+person0
+person0 person1 person2 person3
+person0 person1 person2 airplane0
+person0 person1
+person0 person1
+
+
+
+
+person0 person1 person2
+person0 person1 person2
+person0 person1 person2
+person0 person1 person2
+
+
+
+boat0
+
+
+
+
+
+boat0
+
+
+
+
+
+
+
+
+
+
+boat0
+boat0
+airplane0
+airplane0
+
+
+
+
+person0 person1 person2
+person0 person1 person2
+person0 person1 person2
+person0 person1 person2
+
+
+
+train0
+
+
+
+
+
+boat0
+
+
+person0 person1 tie0
+person0 person1 book0
+person0 person1 book0
+person0 person1 tie0
+
+
+
+
+person0 person1 chair0 pottedplant0 bed0 refrigerator0
+person0 person1 person2 person3 chair0 chair1 bed0 sink0 refrigerator0 refrigerator1
+person0 person1 person2 person3 bottle0 chair0 pottedplant0 bed0 sink0 refrigerator0 refrigerator1
+person0 person1 person2 chair0 bed0 sink0 refrigerator0 refrigerator1 refrigerator2
+person0
+person0
+person0
+person0
+bed0 bed1 bed2
+person0 bed0 bed1 bed2
+bed0 bed1 bed2
+bed0 bed1 bed2
+person0 bed0
+person0 bed0
+person0 bed0
+person0 bed0
+
+
+
+
+person0 person1 person2 bed0 bed1
+person0 person1 person2 bed0 bed1
+person0 person1 person2 bed0 bed1
+person0 person1 person2 bed0 bed1
+person0 bed0
+person0 bed0
+person0 bed0
+person0 bed0
+person0
+person0
+person0
+person0
+person0 scissors0
+person0
+person0
+person0 scissors0
+person0 book0
+person0
+person0 book0
+person0 book0
+person0 car0 car1
+person0 car0 car1
+person0 car0 car1 car2
+person0 car0 car1
+
+
+
+
+
+
+
+clock0
+person0 scissors0
+person0 book0
+person0 book0
+person0 book0
+person0 person1 person2 bed0 bed1
+person0 person1 bed0 bed1
+person0 person1 person2 bed0 bed1
+person0 person1 bed0 bed1
+person0 tie0
+person0 tie0
+person0 tie0
+person0 tie0
+person0
+person0 person1
+person0
+person0
+tv0 cellphone0
+tv0 cellphone0
+person0 tv0 remote0 cellphone0
+cat0 tv0 remote0 cellphone0
+person0 remote0
+person0 person1 remote0
+person0 remote0
+person0 person1 remote0
+person0
+person0
+person0
+person0 motorcycle0
+person0 person1 person2 bench0 bench1 bench2
+person0 person1 person2 bench0 bench1
+person0 person1 person2 bench0 bench1
+person0 person1 person2 person3 bench0
+person0 person1 person2 person3 car0 bench0
+person0 person1 car0 bench0
+
+
+person0 tie0
+person0
+person0 tie0
+person0 tie0
+
+
+
+
+
+
+
+
+person0 person1
+person0
+person0
+person0
+person0 person1 person2 person3
+person0 person1 person2 person3
+person0 person1 person2
+person0 person1 person2 person3
+person0
+person0
+person0
+person0
+
+
+
+
+person0
+person0
+person0
+person0
+apple0 apple1 apple2
+apple0 apple1 apple2
+person0
+apple0
+apple0
+apple0
+apple0
+apple0
+person0
+person0
+person0
+person0
+person0
+person0
+person0
+person0
+
+
+
+
+
+apple0 apple1 apple2 apple3 apple4
+apple0 apple1 apple2 apple3 apple4
+apple0 apple1 apple2 apple3
+
+
+
+
+
+
+
+
+
+
+
+bear0
+person0
+person0
+person0
+person0 bus0
+truck0 truck1
+truck0
+truck0 truck1
+
+
+
+
+
+
+
+
+
+person0
+person0 frisbee0
+person0 frisbee0
+person0
+person0 person1 person2 tennisracket0
+person0 person1 person2
+person0 person1 person2 tennisracket0
+person0 person1 person2
+
+
+
+
+
+
+
+
+person0
+person0
+person0
+person0
+
+
+
+
+
+
+
+
+
+
+
+
+person0
+person0
+person0
+person0
+person0 cellphone0
+person0 cellphone0
+person0 cellphone0 cellphone1
+person0 cellphone0 cellphone1
+person0
+person0
+person0
+person0
+
+
+
+
+
+
+
+
+person0
+person0
+person0
+person0
+
+
+
+
+
+
+
+
+
+
+
+
+person0 person1 person2 person3 person4 person5 person6 person7 person8 person9 handbag0 chair0 chair1 pottedplant0
+person0 person1 person2 person3 person4 person5 person6 person7 chair0 chair1 chair2 chair3 pottedplant0
+person0 person1 person2 person3 person4 person5 person6 person7 person8 chair0 chair1 chair2 chair3 chair4 pottedplant0
+person0 person1 person2 person3 person4 person5 person6 person7 person8 chair0 chair1 chair2 chair3 chair4 chair5
+person0 person1 person2
+person0 person1 person2
+person0 person1 person2 backpack0
+person0 person1 person2
+person0
+person0
+person0
+person0 bed0
+person0 person1 person2 person3 person4 bottle0 bowl0 clock0
+person0 person1 person2 person3 person4 bottle0 bowl0 clock0
+person0 person1 person2 person3 bottle0 bowl0
+person0 person1 person2 person3 person4 bottle0 bowl0
+car0 car1
+person0 car0 car1 airplane0
+car0 car1
+person0 person1 person2 car0 car1 motorcycle0
+person0 cellphone0
+person0 tie0
+person0 tie0
+person0 tie0
+laptop0
+
+
+
+person0 person1 person2 person3 person4 person5 person6 person7 chair0 chair1 pottedplant0
+person0 person1 person2 person3 person4 person5 person6 person7 chair0 chair1 chair2 chair3 pottedplant0
+person0 person1 person2 person3 person4 person5 person6 chair0 chair1 pottedplant0
+person0 person1 person2 person3 person4 person5 person6 person7 person8 chair0 chair1 chair2 pottedplant0 pottedplant1
+person0 person1 person2
+person0 person1 bed0
+person0 person1 person2 bed0
+person0 person1 person2
+person0 person1
+person0 person1
+person0 person1
+person0 person1
+person0
+person0
+person0
+person0 bed0
+person0 person1 person2 person3 person4 handbag0
+person0 person1 person2 person3 person4
+person0 person1 person2 person3 handbag0
+person0 person1 person2 person3 handbag0 diningtable0
+person0 person1 person2 person3 bottle0 bowl0
+person0 person1 person2 person3 bottle0 bowl0
+person0 person1 person2 person3 person4 bottle0 bowl0 clock0
+person0 person1 person2 person3 person4 bottle0 bowl0
+person0 person1 person2 person3 person4
+person0 person1 person2 person3
+person0 person1 person2 person3 bottle0
+person0 person1 person2 person3 person4
+person0 person1 person2 person3 person4 handbag0
+person0 person1 person2 person3 person4 bed0
+person0 person1 person2 person3 person4 person5 handbag0 bottle0 laptop0
+person0 person1 person2 person3 person4 person5 handbag0
+person0 person1 person2 person3 bottle0 cup0
+person0 person1 person2 person3 bottle0 bottle1 cup0
+person0 person1 person2 cup0 cup1
+person0 person1 person2 person3 cup0 cup1
+person0 person1 bottle0 bottle1
+person0 person1 person2 bottle0 bottle1
+person0 person1 bottle0 bottle1 bottle2 cup0
+person0 person1 person2 bottle0 bottle1
+
+person0
+person0
+person0
+person0 person1 bottle0 bed0
+person0 person1 bottle0 bottle1 bed0
+person0 person1 person2 person3 bottle0 cup0 bed0
+person0 person1 person2 bottle0 cup0 bed0
+person0 person1 person2 person3 person4 person5 person6 person7 person8 person9 person10 handbag0
+person0 person1 person2 person3 person4 person5 person6 person7 person8 person9 handbag0
+person0 person1 person2 person3 person4 person5 person6 person7 person8 person9 handbag0
+person0 person1 person2 person3 person4 person5 person6 person7 person8 person9 person10 handbag0
+person0 person1 person2 person3 person4
+person0 person1 person2 person3 person4 person5
+person0 person1 person2 person3 handbag0 cellphone0
+person0 person1 person2 person3 person4 person5
+
+
+
+
+person0
+person0
+person0
+person0
+person0
+person0
+person0
+person0
+person0 person1 person2 person3 person4 bottle0 bottle1 bed0 bed1
+person0 person1 person2 person3 person4 bottle0 bottle1 bottle2 bed0 bed1
+person0 person1 person2 person3 person4 bottle0 bottle1 bottle2 bed0 bed1
+person0 person1 person2 person3 person4 bottle0 bottle1 bottle2 bottle3 bed0
+person0 cellphone0
+person0 bus0
+person0
+person0 bus0
+
+
+
+
+
+
+
+
+person0 person1 person2 person3 person4 person5 person6 person7 person8 person9 pottedplant0 pottedplant1 tv0 laptop0
+person0 person1 person2 person3 person4 person5 person6 person7 person8 person9 person10 pottedplant0 pottedplant1 pottedplant2 tv0 laptop0
+person0 person1 person2 person3 person4 person5 person6 person7 person8 person9 pottedplant0 pottedplant1 pottedplant2 tv0 tv1 laptop0
+person0 person1 person2 person3 person4 person5 person6 person7 pottedplant0 pottedplant1 pottedplant2 tv0 laptop0
+person0 person1 person2 person3 person4 person5 person6 person7 person8 person9 person10 person11 person12 person13 chair0 cellphone0
+person0 person1 person2 person3 person4 person5 person6 person7 person8 person9 person10 person11 person12 person13 chair0 chair1 cellphone0
+person0 person1 person2 person3 person4 person5 person6 person7 person8 person9 person10 person11 person12 person13 chair0 chair1 chair2 cellphone0
+person0 person1 person2 person3 person4 person5 person6 person7 person8 person9 person10 person11 person12 person13 chair0 chair1 cellphone0
+person0 person1 person2 person3 person4 person5 person6 person7 person8 person9 person10 person11 tie0 laptop0
+person0 person1 person2 person3 person4 person5 person6 person7 person8 person9 person10 person11 pottedplant0 laptop0
+person0 person1 person2 person3 person4 person5 person6 person7 person8 person9 person10 person11 tie0 chair0 pottedplant0 laptop0
+person0 person1 person2 person3 person4 person5 person6 person7 person8 person9 person10 person11 tie0 pottedplant0 laptop0
+person0 person1 person2 person3 person4 person5 person6 person7 person8 person9 person10 person11 person12 person13 laptop0
+person0 person1 person2 person3 person4 person5 person6 person7 person8 person9 person10 person11 person12 person13 chair0 chair1 laptop0
+person0 person1 person2 person3 person4 person5 person6 person7 person8 person9 person10 person11 person12 person13 laptop0
+person0 person1 person2 person3 person4 person5 person6 person7 person8 person9 person10 person11 person12 person13 laptop0
+person0 person1 person2 person3 person4 person5 person6 person7 tv0 tv1 laptop0 laptop1 laptop2 laptop3 mouse0
+person0 person1 person2 person3 person4 person5 person6 person7 tie0 chair0 tv0 tv1 laptop0 laptop1 laptop2 laptop3 mouse0
+person0 person1 person2 person3 person4 person5 person6 person7 bottle0 chair0 tv0 tv1 laptop0 laptop1 laptop2 laptop3 laptop4 mouse0
+person0 person1 person2 person3 person4 person5 person6 person7 tie0 bottle0 tv0 laptop0 laptop1 laptop2 laptop3 laptop4 laptop5 laptop6 mouse0
+person0 person1 person2 person3 person4 tv0 tv1 laptop0 laptop1 laptop2 mouse0
+person0 person1 person2 person3 person4 person5 person6 tv0 tv1 laptop0 laptop1 laptop2 mouse0 keyboard0
+person0 person1 person2 person3 person4 person5 person6 tv0 tv1 laptop0 laptop1 laptop2 laptop3 mouse0 keyboard0
+person0 person1 person2 person3 person4 person5 person6 tv0 tv1 laptop0 laptop1 laptop2 laptop3 mouse0 keyboard0
+laptop0
+laptop0 cellphone0
+laptop0 cellphone0
+laptop0 cellphone0
+
+
+
+
+person0 tie0
+person0 cellphone0
+person0 cellphone0
+person0 tie0
+car0 car1
+person0 car0 car1
+person0 car0 car1
+person0 car0 car1
+person0 cellphone0
+person0 cellphone0
+person0
+person0 bus0
+person0 car0 car1
+person0 car0 car1 car2
+
+person0 person1 person2 person3 person4 car0
+tv0
+tv0
+tv0
+tv0
+
+person0 person1
+person0
+
+motorcycle0
+motorcycle0
+person0 motorcycle0
+motorcycle0
+person0 person1 person2 car0 motorcycle0 motorcycle1
+person0 person1 person2 person3 car0 car1 motorcycle0
+person0 person1 person2 person3 person4 person5 person6 car0 car1 car2 motorcycle0 motorcycle1
+person0 person1 person2 person3 person4 car0 car1 car2 motorcycle0 motorcycle1 motorcycle2 truck0
+person0 person1 person2 person3 bicycle0 motorcycle0 motorcycle1 motorcycle2
+person0 person1 person2 person3 person4 bicycle0 motorcycle0
+person0 person1
+person0 person1
+car0 car1 car2
+person0 person1 person2 person3 person4 person5 person6 person7 car0 car1 motorcycle0 motorcycle1 motorcycle2
+person0 person1 person2 person3 person4 person5 person6 car0 car1 motorcycle0 motorcycle1
+person0 person1 person2 person3 person4 car0 car1
+person0 person1 car0 car1 car2 motorcycle0 bus0
+car0 car1 car2 car3 car4
+car0 car1 car2 car3 bus0
+person0 car0 car1 motorcycle0
+person0 person1 person2 bicycle0 truck0
+person0 person1 person2 person3 person4 person5 person6
+
+person0 person1 car0 motorcycle0 motorcycle1
+person0 car0 car1 truck0
+person0 person1 person2 car0 car1 truck0
+person0 person1 person2 car0 car1 truck0
+
+person0 cup0 cup1 cup2 bowl0 chair0 tv0
+person0 person1 cup0 cup1 cup2 cup3 bowl0 chair0 tv0
+person0 person1 cup0 cup1 cup2 chair0
+person0 person1 cup0 cup1 cup2 knife0 chair0 chair1 diningtable0
+bowl0 diningtable0 cellphone0
+person0 bowl0 diningtable0 cellphone0
+person0 bowl0 bowl1 cellphone0 cellphone1
+person0 bowl0 bowl1
+person0 person1 bowl0
+person0 person1 person2 cup0 bowl0 cellphone0
+person0 person1 cup0 bowl0 cellphone0
+person0 person1 bottle0 cup0 bowl0 chair0
+person0 person1 person2 person3 person4 person5 person6 person7 person8 person9 bird0 bird1
+person0 person1 person2 person3 bird0 bird1
+person0 person1 person2 person3 person4 bird0 bird1
+person0 person1 person2 person3 person4 bird0
+bird0 bird1
+bird0 bird1
+bird0 bird1
+bird0 bird1
+person0 tie0
+person0 tie0
+person0 person1 tie0
+person0 tie0
+person0 person1 person2 person3 person4 person5 person6
+person0 person1 person2 person3 person4 person5 person6 person7 person8 person9 person10 person11
+person0 person1 person2 person3 person4 umbrella0
+stopsign0
+person0
+person0 tie0
+person0 tie0
+person0 tie0
+person0 cup0 chair0 chair1 chair2
+person0 chair0 chair1 chair2
+person0 chair0 chair1 chair2
+person0 cup0 chair0 chair1 chair2
+person0 bowl0 bowl1 diningtable0
+person0 bowl0 cellphone0 cellphone1
+person0 bowl0 bowl1 bowl2
+person0 bowl0 bowl1
+person0 cup0 cup1 bowl0 chair0 tv0
+person0 person1 cup0 cup1 cup2 cup3 bowl0 diningtable0 tv0
+person0 person1 cup0 cup1 cup2 knife0 bowl0 chair0 diningtable0
+person0 person1 cup0 cup1 cup2 cup3 knife0 bowl0 chair0 chair1 diningtable0 diningtable1
+person0 person1 cup0 bowl0 chair0 diningtable0 cellphone0
+person0 person1 person2 cup0 bowl0 chair0
+person0 person1 cup0 bowl0 bowl1 chair0 diningtable0 cellphone0
+person0 person1 bottle0 cup0 cup1 bowl0 chair0 cellphone0
+person0 chair0
+person0
+person0
+person0 vase0
+person0 banana0 chair0
+person0
+person0 chair0
+person0
+person0 pottedplant0
+person0 pottedplant0 pottedplant1
+person0 pottedplant0 pottedplant1
+person0 bird0 pottedplant0 pottedplant1 pottedplant2
+person0
+person0
+person0
+person0
+person0 pottedplant0
+person0 pottedplant0
+person0 pottedplant0
+person0 pottedplant0
+person0 pottedplant0
+person0
+person0
+person0 boat0
+person0 cellphone0
+person0 cellphone0 cellphone1
+person0 person1 cellphone0 cellphone1
+person0 cellphone0
+person0 person1 cellphone0 cellphone1
+person0 cellphone0
+person0 cellphone0 cellphone1
+person0 person1 cellphone0 cellphone1
+person0 person1 laptop0 laptop1 cellphone0
+person0 person1 person2 laptop0 cellphone0
+person0 person1 cellphone0
+person0 person1 cellphone0
+person0 laptop0 laptop1
+person0 laptop0 laptop1
+person0 laptop0 laptop1
+person0 laptop0 laptop1
+
+
+
+
+person0 person1 person2
+person0 person1 person2 person3
+person0 person1
+
+
+person0 tv0
+person0 tv0
+person0
+person0 person1
+person0 person1 cellphone0
+person0 person1 cellphone0
+person0 cellphone0
+
+
+
+
+
+
+
+
+person0 person1 person2 person3
+person0 person1 person2 person3 person4
+person0 person1 person2 person3 handbag0
+person0 person1 person2 person3 handbag0
+person0 person1 person2
+person0 person1 person2
+person0 person1 person2
+person0 person1 person2
+person0 person1 person2 person3 person4 person5 person6 car0 car1 bench0
+person0 person1 person2 person3 person4 person5 person6 person7 car0
+person0 person1 person2 person3 person4 person5 person6 car0
+person0 person1 person2 person3 person4 person5 person6 car0
+
+
+
+
+person0 person1 person2 person3 person4
+person0 person1 person2 person3 person4 person5 person6
+person0 person1 person2 person3 person4
+person0 person1 person2 person3 person4
+person0 person1 person2 person3 person4 person5
+person0 person1 person2 person3 person4 person5 person6
+person0 person1 person2 person3 person4 person5 person6 person7 person8
+person0 person1 person2 person3
+person0 person1 person2 person3 person4 person5 backpack0
+person0 person1 person2 person3 person4 person5
+person0 person1 person2 person3 person4
+person0 person1 person2 person3 person4
+person0 tie0
+person0 tie0
+person0 tie0
+person0 tie0
+
+
+
+
+person0
+person0
+person0 cake0
+person0
+person0
+person0
+person0
+person0
+elephant0
+elephant0
+elephant0
+elephant0
+
+person0
+person0 cake0
+person0 cake0
+elephant0
+elephant0
+person0 elephant0
+elephant0
+
+
+
+
+person0
+person0 donut0
+person0
+person0
+person0
+person0
+person0
+donut0
+person0
+person0
+person0
+person0
+person0
+person0
+person0 sportsball0
+person0
+person0 person1 person2 person3 person4 elephant0 bottle0
+person0 person1 person2 person3 person4 elephant0 bottle0
+person0 person1 person2 person3 person4 elephant0 bottle0
+person0 person1 person2 person3 person4 elephant0 bottle0
+person0 person1 person2 elephant0
+person0 person1 person2 elephant0
+person0 person1
+person0 person1 person2
+person0 person1 person2 elephant0 elephant1 sink0
+person0 person1 person2 person3 elephant0 elephant1
+person0 person1 person2 elephant0 elephant1
+person0 person1 person2 elephant0 elephant1
+person0 person1 person2 person3 backpack0
+person0 person1 person2 person3 person4 person5
+person0 person1 person2 person3 person4 person5
+person0 person1 person2 person3 person4 backpack0
+person0
+person0
+person0
+person0
+person0 person1 person2 person3
+person0 person1 person2 person3
+person0 person1 person2 person3
+person0 person1 person2 person3
+person0 person1 person2 person3
+person0 person1 person2 person3
+person0
+
+person0 person1 person2 person3 person4 person5 person6 person7 person8 person9 backpack0
+person0 bird0 bird1 bird2
+person0 person1 person2 person3 person4
+person0 person1 person2
+person0 person1 person2 trafficlight0 tv0
+person0 bird0 bird1
+person0 bird0 bird1
+bird0 bird1
+person0 bird0 bird1
+person0 person1 bird0 bird1
+bird0 bird1
+bird0 bird1
+bird0 bird1
+bird0 bird1
+bird0 bird1
+bird0 bird1
+person0 person1 person2 person3 person4 person5 bird0 bird1 backpack0 backpack1
+person0 person1 person2 person3 person4 person5 person6 person7 person8 person9 person10 bird0 bird1 backpack0 backpack1
+person0 person1 person2 person3 person4 person5 person6 bird0 backpack0 backpack1
+person0 person1 person2 person3 person4 person5 person6 person7 person8 person9 person10 person11 person12 bird0 bird1 backpack0
+person0
+person0
+person0
+person0
+person0 person1 person2 person3 person4 person5 person6 person7 person8
+person0 person1 person2 person3 person4 person5 person6 person7 person8
+person0 person1 person2 person3 person4 person5 person6 person7 person8 person9 handbag0
+person0 person1 person2 person3 person4 person5 person6 person7 person8 person9 handbag0
+person0 person1 person2 person3
+person0 person1 person2 person3
+person0 person1 person2 person3
+person0 person1 person2 person3
+person0 person1
+person0 person1
+person0 person1
+person0 person1
+person0 person1 backpack0
+person0 person1 backpack0
+person0 person1 backpack0
+person0 person1 backpack0 cellphone0
+person0 person1 person2 person3 person4 person5
+person0 person1 person2 person3 person4 person5 person6
+person0 person1 person2 person3 person4 cup0
+person0 person1 person2 person3 person4 person5 person6
+person0 person1 person2 person3 person4 person5 person6 person7 person8 backpack0 tv0
+person0 person1 person2 person3 person4 person5 person6 person7
+person0 person1 person2 person3 person4 person5 person6 person7
+person0 person1 person2 person3 person4 person5 person6
+trafficlight0
+
+trafficlight0
+trafficlight0 bird0
+person0 person1 person2
+person0 person1 person2
+person0 person1 person2
+person0 person1 person2 person3
+person0 tie0
+person0 tie0
+tie0
+person0 tie0
+person0 person1 person2 person3 person4 person5 person6 person7 person8 person9 umbrella0 umbrella1
+person0 person1 person2 person3 person4 person5 person6 umbrella0 umbrella1
+person0 person1 person2 person3 person4 person5 person6 umbrella0
+person0 person1 person2 person3 person4 person5 person6 umbrella0 umbrella1
+person0 person1
+person0 person1 surfboard0
+person0 person1
+person0 surfboard0
+person0 person1
+person0 person1
+person0 person1
+person0 person1
+person0
+person0
+person0
+person0
+clock0
+clock0
+clock0
+clock0
+person0
+person0
+person0
+person0 person1 book0
+person0 person1 cellphone0
+
+
+
+
+
+
+
+
+
+
+toothbrush0
+person0 person1
+person0 scissors0
+person0
+person0 person1 diningtable0
+person0
+person0
+person0
+person0
+
+
+cake0
+cake0
+person0 knife0 diningtable0
+person0
+person0
+person0
+
+
+
+
+person0
+person0 person1
+person0 person1
+person0 person1
+person0
+person0
+person0
+person0
+person0 diningtable0 mouse0
+person0 diningtable0
+person0
+person0 person1 bowl0
+person0
+person0
+person0
+person0 knife0 diningtable0
+person0 knife0 cake0
+person0 person1 knife0 cake0 cake1
+person0 person1 knife0 cake0 cake1
+person0 cake0
+person0 book0
+person0
+person0
+person0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+person0
+
+
+
+
+
+
+
+person0
+person0
+person0
+person0
+person0 person1 person2 person3
+person0 person1 person2 person3
+person0 person1 person2 person3
+person0 person1 person2 person3
+person0 person1 boat0
+person0 person1 boat0
+
+boat0
+person0 person1 person2 person3 person4 person5
+person0 person1 person2 person3 person4 person5
+person0 person1 person2 person3 person4 kite0
+person0 person1 person2 person3
+person0 person1 person2 person3 person4 person5 person6
+person0 person1 person2 person3 person4 person5 person6 sportsball0
+person0 person1 person2 person3 person4 person5 person6
+person0 person1 person2 person3 person4 person5 person6 person7 person8 sportsball0
+person0 person1
+person0 person1 person2
+person0
+person0
+person0
+person0
+person0
+person0
+person0 person1 person2 person3 person4 person5 sportsball0 sportsball1
+person0 person1 person2 person3 person4 person5 sportsball0 sportsball1
+person0 person1 person2 person3 person4 person5 person6 sportsball0 sportsball1
+person0 person1 person2 person3 person4 person5 person6 sportsball0 sportsball1
+person0
+person0 person1
+person0
+person0
+person0 person1
+keyboard0
+
+
